@@ -1,6 +1,3 @@
-# origami-circular-navigation
-
-
 # Circular navigation
 
 ![alt text](http://payload.persona.co/1/1/61823/205951/Circular-Navigation_10.gif)
